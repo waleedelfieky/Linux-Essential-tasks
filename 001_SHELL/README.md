@@ -11,3 +11,4 @@
 	- this function manage dashboard interface and choice selection
 # program final Dashboard output 
 
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/460c56eb-dfd5-4a7c-9123-6c31faf3721e)
