@@ -6,25 +6,37 @@
 # click on apply operations
 ![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/fd4276aa-ceea-4e2a-80bf-62c114c43cca)
 
-# linux don't see it
-![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/6bfdfd57-408f-4ce5-ab41-038b6c69361b)
 
 # mount two partation 
 ## get the path of device driver for 2 partations you can get it from gparted too 
 ![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/6caec551-eaf4-48d1-9019-d3f4e10f81ca)
-## mount partations on /mnt folder
+## mount partations on /media/waleed directory
 ```
-sudo mount /dev/sdb1 /mnt
+sudo mkdir /media/waleed/part1
+sudo mount /dev/sdb1 /media/waleed/part1
 ```
 
 ```
-sudo mount /dev/sdb2 /mnt/part1
+sudo mkdir /media/waleed/part2
+sudo mount /dev/sdb2 /media/waleed/part2
 ```
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/2dedd184-2c07-4ff5-91eb-a2cdc47fb588)
+
 
 # add some files 
 ```
-touch /mnt/part1/file{1..10}
+sudo touch /media/waleed/file/part1/{1..10}
 ```
 ```
-touch /mnt/part2/file{1..10}
+sudo touch /media/waleed/ile/part2/{1..10}
 ```
+
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/ed1021d6-72e3-44e6-9840-29b2deddac78)
+
+
+# rebooting system 
+# mount point is deleted
+
+# to make it presist add those line in fstab 
+
+
