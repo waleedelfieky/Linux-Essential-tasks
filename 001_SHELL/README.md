@@ -1,6 +1,6 @@
 # program final Dashboard output 
 
-![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/de0c5ee9-5b3c-4e62-bfc1-785f053ccd3a)
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/5d7c7be2-ad0d-4c2d-bcf3-dfd1856a2802)
 
 # project functions extraction
 # for today tasks
