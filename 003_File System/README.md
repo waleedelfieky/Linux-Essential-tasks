@@ -42,5 +42,6 @@ sudo touch /media/waleed/ile/part2/{1..10}
 ![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/7cb8e574-bbb6-46ec-a9ae-030cb7105356)
 
  #reboot 
-
+# now they are automatically mounted to those directories
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/a751705b-1002-4ef4-a426-9694079db24b)
 
