@@ -17,7 +17,7 @@
 
 - ### show completed task
 	- this function responsible for show the completed tasks
-# for moving tasks after compleation to another files
+# for moving tasks after being done to another files
 - ### move to complete files
 	- this function responsible for moving completed tasks to complete file
 
