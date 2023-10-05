@@ -39,7 +39,8 @@ sudo touch /media/waleed/ile/part2/{1..10}
 ![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/25e20232-ff77-492a-b496-d41374f54361)
 
 # to make it presist add those line in fstab 
-![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/60db5900-133b-4d7a-978d-171303ef4358)
+![image](https://github.com/waleedelfieky/Moudule_one_tasks/assets/126036494/7cb8e574-bbb6-46ec-a9ae-030cb7105356)
+
  #reboot 
 
 
