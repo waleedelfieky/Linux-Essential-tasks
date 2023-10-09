@@ -21,9 +21,8 @@
 - ### move to complete files
 	- this function responsible for moving completed tasks to complete file
 
-- ### move to late fuke
+- ### move to late fike
 	- this function responsible for moving the taks that you can't do today to late file
- - 
 - ### show late tasks
 	- this function responsible for show the late tasks
 - ### mark late as complete
